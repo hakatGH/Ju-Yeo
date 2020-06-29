@@ -409,9 +409,6 @@ KV1 = '''
         
 
 '''
-class infoscreen(MDScreen):
-    def __init__(self, **kwargs):
-        super(infoscreen, self).__init__(**kwargs)
 
 class findsul(MDCard):
     pass
